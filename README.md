@@ -14,31 +14,39 @@ Senior Web Developer with 4+ years of experience in **PHP**, **Laravel**, **Vue.
 ---
 
 ## 🔧 Technologies  
-- **Languages**: 
-  - ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)  
-  - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-  - ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-  
-- **Frameworks**:  
-  - ![Laravel](https://img.shields.io/badge/Laravel-EF4135?logo=laravel&logoColor=white)  
-  - ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white)  
-  - ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-
-- **Databases**:  
-  - ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)  
-  - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)  
-  - ![Redis](https://img.shields.io/badge/Redis-D92C28?logo=redis&logoColor=white)
-
-- **Tools**:  
-  - ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
-  - ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  
-  - ![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)  
-  - ![Composer](https://img.shields.io/badge/Composer-885630?logo=composer&logoColor=white)  
-  - ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=black)
-
-- **Payment Integrations**:  
-  - ![Stripe](https://img.shields.io/badge/Stripe-008C42?logo=stripe&logoColor=white)  
-  - ![PayPal](https://img.shields.io/badge/PayPal-003087?logo=paypal&logoColor=white)
+<div align="center">
+  <div style="display: inline-block; padding: 10px; border: 1px solid #ccc; border-radius: 10px; max-width: 95%; margin-bottom: 20px; background-color: #f7f7f7;">
+    <h3>Languages</h3>
+    <p>
+      <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" alt="PHP" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" />
+    </p>
+    
+    <h3>Frameworks</h3>
+    <p>
+      <img src="https://img.shields.io/badge/Laravel-EF4135?logo=laravel&logoColor=white" alt="Laravel" />
+      <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white" alt="Vue.js" />
+      <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Node.js" />
+    </p>
+    
+    <h3>Databases</h3>
+    <p>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL" />
+      <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/Redis-D92C28?logo=redis&logoColor=white" alt="Redis" />
+    </p>
+    
+    <h3>Tools</h3>
+    <p>
+      <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker" />
+      <img src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white" alt="Nginx" />
+      <img src="https://img.shields.io/badge/Composer-885630?logo=composer&logoColor=white" alt="Composer" />
+      <img src="https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=black" alt="Webpack" />
+    </p>
+  </div>
+</div>
 
 ---
 
